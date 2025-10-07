@@ -8,13 +8,13 @@ This project analyzes Airbnb listings in New York City to examine pricing patter
 To identify key trends in Airbnb rentals across New York City, including revenue by neighbourhood group, top hosts by listings, and average prices by room type.  
 
 ## Dataset
-- **Source:** [Superstore Sales Dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)  
+- **Source:** [Airbnb NYC Listings Dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)  
 - **Key Fields:** Include neighbourhood group, room type, reviews per month, price, availability 365, revenue
 
 
 ## Download dashboard
 
-[Download the E-commerce sales dashobard (.xlsx)](https://drive.google.com/file/d/1V0xo92O1DK9Uyf7LwFvb5qCnuEaBxuI7/view?usp=drive_link)
+[Download the Airbnnb listings analysis dashboard (.xlsx)](https://drive.google.com/file/d/1V0xo92O1DK9Uyf7LwFvb5qCnuEaBxuI7/view?usp=drive_link)
 
 - The dashboard sheet will open by default but supporting pivot tables and data sheets are hidden for clarity, but can be unhidden
   
