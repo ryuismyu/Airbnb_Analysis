@@ -1,40 +1,36 @@
-## Airbnb NYC Listings Analysis
+# Airbnb NYC Listings Analysis
 
-# Overview:
-This project analyzes Airbnb listings in New York City to examine 
+## Overview:
+This project analyzes Airbnb listings in New York City to examine pricing patterns and host activity. The dashboard was built on excel and can be used to provide insights for hosts as well as users of the Airbnb platform.
 
-Business Objective
+## Business Objective
 
 To identify key trends in Airbnb rentals across New York City, including revenue by neighbourhood group, top hosts by listings, and average prices by room type.  
 
-Dataset
+## Dataset
+- **Source:** [Superstore Sales Dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)  
+- **Key Fields:** Include neighbourhood group, room type, reviews per month, price, availability 365, revenue
+  
+## Dashboard Preview
 
-The dataset is a publicly available Airbnb dataset from Kaggle.
+![Dashboard Screenshot](Dashboard/dashboard_screenshot.png)
 
-Contents: Listing ID, host ID, neighborhood group, neighborhood, room type, price, minimum nights, number of reviews, last review date, availability, and more.
 
-Size: ~49,000 records
+## Key Insights
 
-Source: Airbnb NYC Dataset (Kaggle)
+- Neighborhood Trends: Manhattan dominates in listing count and revenue, while Staten Island and the Bronx provide the lowest values in terms of number of listings and revenue.
+- Room Type Patterns: Entire homes/apartments account for the majority of revenue, while hotel rooms account for the least total revenue.
+- Host patterns: There is a signficant imbalance in top hots by listings, with 10-15 hosts accountign for the bulk of the number of listings
 
-Dashboard Preview
+## Sections of the report
+- The report data contains a slicer so you can filter by room type: Entire home, hotel room, private room, and shared room.
+- The report is made up of 5 bar charts: Top 10 hosts by number of listings, Revenue by neighbourhood group, Average price by room type and neighbourhood group, Average price by room type and neighbourhood group, Average reviews per Month by room type, Average price of listing by neighbourhood group
+- A collection of pivot tables providing summary data on the dataset.
+  
+ ## Skills used
+- Pivot tables
+- Dashboard Design using excel
+- Data cleaning in SQL and excel
 
-Key Insights
 
-Neighborhood Trends: Manhattan dominates in listing count and revenue, while Staten Island has minimal representation.
 
-Room Type Patterns: Entire homes/apartments account for the majority of revenue, while shared rooms are least profitable.
-
-Pricing Outliers: Certain neighborhoods show extreme outliers in nightly pricing, indicating potential data cleaning requirements.
-
-Host Activity: A small subset of hosts manages a disproportionately high number of listings, suggesting professional rental operations.
-
-Skills Demonstrated
-
-Data cleaning & preparation (Excel / SQL)
-
-Pivot tables and calculated fields
-
-Dashboard creation in Power BI
-
-Exploratory data analysis (EDA)
