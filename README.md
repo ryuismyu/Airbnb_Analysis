@@ -14,7 +14,7 @@ To identify key trends in Airbnb rentals across New York City, including revenue
 
 ## Download dashboard
 
-[Download the Airbnb listings analysis dashboard (.xlsx)](https://docs.google.com/spreadsheets/d/1Aty7fwDZFfmVbQrPipacP8jyXS0JEche/edit?usp=sharing&ouid=114159931885964980567&rtpof=true&sd=true)
+[Download the Airbnb listings analysis dashboard (.xlsx)](https://drive.google.com/uc?export=download&id=1Aty7fwDZFfmVbQrPipacP8jyXS0JEche)
 
 - The dashboard sheet will open by default but supporting pivot tables and data sheets are hidden for clarity, but can be unhidden
   
