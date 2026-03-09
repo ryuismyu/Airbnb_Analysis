@@ -27,7 +27,7 @@ To identify key trends in Airbnb rentals across New York City, including revenue
 
 - Neighborhood Trends: Manhattan dominates in listing count and revenue, while Staten Island and the Bronx provide the lowest values in terms of number of listings and revenue.
 - Room Type Patterns: Entire homes/apartments account for the majority of revenue, while hotel rooms account for the least total revenue.
-- Host patterns: There is a signficant imbalance in top hots by listings, with 10-15 hosts accountign for the bulk of the number of listings
+- Host patterns: There is a signficant imbalance in top hosts by listings, with 10-15 hosts accounting for the bulk of the number of listings.
 
 ## Sections of the report
 - The report data contains a slicer so you can filter by room type: Entire home, hotel room, private room, and shared room.
